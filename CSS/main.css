@@ -29,6 +29,7 @@
     and (-webkit-device-pixel-ratio: 2) {
     body {
         background-color: hsl(204, 43%, 93%);
+        margin: 10px;
     }
 
     .main {
